@@ -39,10 +39,10 @@ const Main = ({ data }) => {
             tambien soy un gato inservible.
           </p>
           <p>
-            Me las arreglo con lenguajes como {data.lenguajes.join(", ")} y me
+            Me las arreglo en lenguajes como {data.lenguajes.join(", ")} y me
             gusta combatir el crimen en mi tiempo libre.
           </p>
-          <p>Saludos al profe Politi y al grupo Pepsi y Puchito.</p>
+          <p>Saludos al profe Politi, a Pepsi y Puchito.</p>
         </div>
       </div>
     </div>
