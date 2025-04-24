@@ -1,0 +1,23 @@
+.header {
+  background-color: #1e3a8a;
+  color: #fff;
+  padding: 16px 0;
+  text-align: center;
+  width: 100%;
+  font-family: "Bangers", system-ui;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 5px;
+  font-size: 32px;
+  letter-spacing: 3.2px;
+  color: #fde047;
+}
+
+.header hr {
+  border-color: #93c5fd;
+  width: 80%;
+}
