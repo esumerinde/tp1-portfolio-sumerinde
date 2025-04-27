@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Main.css";
+import "../styles/Main.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMusic } from "@fortawesome/free-solid-svg-icons";
 import InvencibleFeelIt from "../assets/InvencibleFeelIt.mp3";

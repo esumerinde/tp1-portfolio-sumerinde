@@ -1,5 +1,5 @@
 import React from "react";
-import "./Footer.css";
+import "../styles/Footer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
@@ -22,7 +22,7 @@ const Footer = () => {
         </a>{" "}
         |{" "}
         <a
-          href="https://www.youtube.com/shorts/scFMI_u6P4E?feature=share"
+          href="https://www.linkedin.com/in/emiliano-sumerinde-47a17b238/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -30,7 +30,7 @@ const Footer = () => {
         </a>{" "}
         |{" "}
         <a
-          href="hhttps://www.instagram.com/esum.26/"
+          href="https://www.instagram.com/esum.26/"
           target="_blank"
           rel="noopener noreferrer"
         >
