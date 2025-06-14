@@ -1,0 +1,78 @@
+.main-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #1e3a8a;
+}
+
+.card {
+  border: 1px solid #93c5fd;
+  border-radius: 8px;
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+  background-color: #adc1f7;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.audio-icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  font-size: 24px;
+  color: #fde047;
+}
+
+.description-box {
+  border: 1px solid #93c5fd;
+  border-radius: 8px;
+  padding: 24px;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  background-color: #a9ccf5;
+}
+
+.description-box p {
+  margin: 12px 0;
+  font-size: 17.6px;
+  line-height: 25.6px;
+  color: #1e3a8a;
+  text-align: center;
+}
+
+.dark-mode .main-card {
+  background-color: #121212;
+}
+
+.dark-mode .card {
+  border-color: #555;
+  background-color: #333;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+
+.dark-mode .description-box {
+  border-color: #555;
+  background-color: #444;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+
+.dark-mode .description-box p {
+  color: #eee;
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Emiliano",
+    "apellido": "Sumerinde",
+    "imagen": "https://i.imgur.com/FC1Ew37.png",
+    "hobbies": [
+      "Powerlifting",
+      "Cuidar mis plantas",
+      "Cuidar a Dovah, Vivi y Mona",
+      "Combatir el crimen",
+      "Dormir en clase"
+    ],
+    "descripcionPersonal": "Hola, soy un gato inservible, si bien combato el crimen, en mi tiempo libre me gusta programar, soy un developer fullstack que esta estudiando la Tecnicatura Superior en Programacion en la UTN FRT, mi profesor es Raul Politi y lo quiero mucho.",
+    "contacto": {
+      "telefonoPersonal": "3813643969",
+      "correo": "esumerinde@gmail.com"
+    }
+  }
+]
